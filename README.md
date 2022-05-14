@@ -21,3 +21,5 @@ This blog-post allows users to create and share technology-focused-post, users m
 ## DEMONSTRATION
 https://user-images.githubusercontent.com/94572199/168221331-3b955729-8c64-4fee-9c11-0d4d7a8fd63c.mov
 
+## DEPLOYMENT-LINK
+[CLICK-HERE](https://stark-bastion-74188.herokuapp.com/home)
