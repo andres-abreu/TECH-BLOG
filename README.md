@@ -23,3 +23,9 @@ https://user-images.githubusercontent.com/94572199/168221331-3b955729-8c64-4fee-
 
 ## DEPLOYMENT-LINK
 [CLICK-HERE](https://stark-bastion-74188.herokuapp.com/home)
+
+<div>
+  <br/>
+  <br/>
+     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="GH-count"/>
+  </div>
