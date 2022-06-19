@@ -20,7 +20,7 @@
   <br/>
   <br/>
   
-This blog-post allows users to create and share technology-focused-post, users may view, edit, delete & comment. This app follows the model-view-controller[MVC] paradigm in its archetictural structure using handlebars.js as the templating language, Sequelize as the object-relational-mapping[ORM], and express-session-npm-package for authentication.
+* This blog-post allows users to create and share technology-focused-post, users may view, edit, delete & comment. This app follows the model-view-controller[MVC] paradigm in its archetictural structure using handlebars.js as the templating language, Sequelize as the object-relational-mapping[ORM], and express-session-npm-package for authentication.
 
 
 ## INSTALL/RUN-INSTRUCTIONS.
